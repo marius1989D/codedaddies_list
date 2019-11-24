@@ -1,0 +1,6 @@
+*.sqlite3
+.pyc
+.pycache
+.c9
+*.pyc
+*.pyc
